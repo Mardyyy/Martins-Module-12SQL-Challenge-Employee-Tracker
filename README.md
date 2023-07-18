@@ -17,9 +17,9 @@ To run the project, you must first run "npm i" in the files command line. Then r
 
 ## Usage
      
-<a href=""> Link to video tutorial of application"</a>
+<a href="https://drive.google.com/file/d/1BY3nm0Yb_xWpweg7MazUENkd5RZowHsl/view"> Link to video tutorial of application"</a>
 
-<img src="" alt="Screen Shot of the terminal"/>
+<img src="/assets/screenshot.PNG" alt="Screen Shot of the terminal"/>
 
 ## License
 
